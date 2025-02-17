@@ -4,6 +4,9 @@ A wordle analyser that gives you the top 10 opening words based on a lit of pote
 ## Support
 As of this writing, the code only works in browsers that support the File System Access API (Chrome/Chromium and Edge) https://developer.mozilla.org/en-US/docs/Web/API/Window/showOpenFilePicker
 
+## Requirement
+The word file should contain 1 word per line.
+
 ## Usage
 1. Open the html file on your computer.
 2. Click the "Go" button
