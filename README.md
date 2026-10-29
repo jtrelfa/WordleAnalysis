@@ -1,5 +1,5 @@
 # Wordle Analysis
-A wordle analyser that gives you the top 10 opening words based on a lit of potential words
+A wordle analyser that gives you the top 10 opening words based on a list of potential words
 
 ## Support
 As of this writing, the code only works in browsers that support the File System Access API (Chrome/Chromium and Edge) https://developer.mozilla.org/en-US/docs/Web/API/Window/showOpenFilePicker
